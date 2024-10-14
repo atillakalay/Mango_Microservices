@@ -3,20 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\Atilla\\source\\repos\\Mango\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{844F0639-C8EA-4CEA-9677-E744302890F4}|FrontEnd\\Mango.Web\\Mango.Web.csproj|c:\\users\\atilla\\source\\repos\\mango\\frontend\\mango.web\\views\\coupon\\coupondelete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{844F0639-C8EA-4CEA-9677-E744302890F4}|FrontEnd\\Mango.Web\\Mango.Web.csproj|solutionrelative:frontend\\mango.web\\views\\coupon\\coupondelete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{69F4E5A4-73C9-43F8-8B3B-F858F8034043}|Services\\Mango.Services.AuthAPI\\Mango.Services.AuthAPI.csproj|c:\\users\\atilla\\source\\repos\\mango\\services\\mango.services.authapi\\controllers\\authapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69F4E5A4-73C9-43F8-8B3B-F858F8034043}|Services\\Mango.Services.AuthAPI\\Mango.Services.AuthAPI.csproj|solutionrelative:services\\mango.services.authapi\\controllers\\authapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{844F0639-C8EA-4CEA-9677-E744302890F4}|FrontEnd\\Mango.Web\\Mango.Web.csproj|c:\\users\\atilla\\source\\repos\\mango\\frontend\\mango.web\\views\\coupon\\couponcreate.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{844F0639-C8EA-4CEA-9677-E744302890F4}|FrontEnd\\Mango.Web\\Mango.Web.csproj|solutionrelative:frontend\\mango.web\\views\\coupon\\couponcreate.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{69F4E5A4-73C9-43F8-8B3B-F858F8034043}|Services\\Mango.Services.AuthAPI\\Mango.Services.AuthAPI.csproj|c:\\users\\atilla\\source\\repos\\mango\\services\\mango.services.authapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69F4E5A4-73C9-43F8-8B3B-F858F8034043}|Services\\Mango.Services.AuthAPI\\Mango.Services.AuthAPI.csproj|solutionrelative:services\\mango.services.authapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{844F0639-C8EA-4CEA-9677-E744302890F4}|FrontEnd\\Mango.Web\\Mango.Web.csproj|c:\\users\\atilla\\source\\repos\\mango\\frontend\\mango.web\\controllers\\couponcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{844F0639-C8EA-4CEA-9677-E744302890F4}|FrontEnd\\Mango.Web\\Mango.Web.csproj|solutionrelative:frontend\\mango.web\\controllers\\couponcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{69F4E5A4-73C9-43F8-8B3B-F858F8034043}|Services\\Mango.Services.AuthAPI\\Mango.Services.AuthAPI.csproj|c:\\users\\atilla\\source\\repos\\mango\\services\\mango.services.authapi\\service\\jwttokengenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69F4E5A4-73C9-43F8-8B3B-F858F8034043}|Services\\Mango.Services.AuthAPI\\Mango.Services.AuthAPI.csproj|solutionrelative:services\\mango.services.authapi\\service\\jwttokengenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F04ECBED-25BB-4BA3-B514-8F3D4FE08D09}|Services\\Mango.Services.CouponAPI\\Mango.Services.CouponAPI.csproj|c:\\users\\atilla\\source\\repos\\mango\\services\\mango.services.couponapi\\mango.services.couponapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{F04ECBED-25BB-4BA3-B514-8F3D4FE08D09}|Services\\Mango.Services.CouponAPI\\Mango.Services.CouponAPI.csproj|solutionrelative:services\\mango.services.couponapi\\mango.services.couponapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{69F4E5A4-73C9-43F8-8B3B-F858F8034043}|Services\\Mango.Services.AuthAPI\\Mango.Services.AuthAPI.csproj|c:\\users\\atilla\\source\\repos\\mango\\services\\mango.services.authapi\\service\\iservice\\ijwttokengenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69F4E5A4-73C9-43F8-8B3B-F858F8034043}|Services\\Mango.Services.AuthAPI\\Mango.Services.AuthAPI.csproj|solutionrelative:services\\mango.services.authapi\\service\\iservice\\ijwttokengenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69F4E5A4-73C9-43F8-8B3B-F858F8034043}|Services\\Mango.Services.AuthAPI\\Mango.Services.AuthAPI.csproj|c:\\users\\atilla\\source\\repos\\mango\\services\\mango.services.authapi\\service\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69F4E5A4-73C9-43F8-8B3B-F858F8034043}|Services\\Mango.Services.AuthAPI\\Mango.Services.AuthAPI.csproj|solutionrelative:services\\mango.services.authapi\\service\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -31,53 +35,66 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "CouponDelete.cshtml",
-              "DocumentMoniker": "C:\\Users\\Atilla\\source\\repos\\Mango\\FrontEnd\\Mango.Web\\Views\\Coupon\\CouponDelete.cshtml",
-              "RelativeDocumentMoniker": "FrontEnd\\Mango.Web\\Views\\Coupon\\CouponDelete.cshtml",
-              "ToolTip": "C:\\Users\\Atilla\\source\\repos\\Mango\\FrontEnd\\Mango.Web\\Views\\Coupon\\CouponDelete.cshtml",
-              "RelativeToolTip": "FrontEnd\\Mango.Web\\Views\\Coupon\\CouponDelete.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACkAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-13T11:01:55.279Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "CouponCreate.cshtml",
-              "DocumentMoniker": "C:\\Users\\Atilla\\source\\repos\\Mango\\FrontEnd\\Mango.Web\\Views\\Coupon\\CouponCreate.cshtml",
-              "RelativeDocumentMoniker": "FrontEnd\\Mango.Web\\Views\\Coupon\\CouponCreate.cshtml",
-              "ToolTip": "C:\\Users\\Atilla\\source\\repos\\Mango\\FrontEnd\\Mango.Web\\Views\\Coupon\\CouponCreate.cshtml",
-              "RelativeToolTip": "FrontEnd\\Mango.Web\\Views\\Coupon\\CouponCreate.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAADIAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-13T10:59:48.526Z",
+              "Title": "AuthAPIController.cs",
+              "DocumentMoniker": "C:\\Users\\Atilla\\source\\repos\\Mango\\Services\\Mango.Services.AuthAPI\\Controllers\\AuthAPIController.cs",
+              "RelativeDocumentMoniker": "Services\\Mango.Services.AuthAPI\\Controllers\\AuthAPIController.cs",
+              "ToolTip": "C:\\Users\\Atilla\\source\\repos\\Mango\\Services\\Mango.Services.AuthAPI\\Controllers\\AuthAPIController.cs",
+              "RelativeToolTip": "Services\\Mango.Services.AuthAPI\\Controllers\\AuthAPIController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-13T14:42:01.485Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "CouponController.cs",
-              "DocumentMoniker": "C:\\Users\\Atilla\\source\\repos\\Mango\\FrontEnd\\Mango.Web\\Controllers\\CouponController.cs",
-              "RelativeDocumentMoniker": "FrontEnd\\Mango.Web\\Controllers\\CouponController.cs",
-              "ToolTip": "C:\\Users\\Atilla\\source\\repos\\Mango\\FrontEnd\\Mango.Web\\Controllers\\CouponController.cs",
-              "RelativeToolTip": "FrontEnd\\Mango.Web\\Controllers\\CouponController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAA==",
+              "Title": "JwtTokenGenerator.cs",
+              "DocumentMoniker": "C:\\Users\\Atilla\\source\\repos\\Mango\\Services\\Mango.Services.AuthAPI\\Service\\JwtTokenGenerator.cs",
+              "RelativeDocumentMoniker": "Services\\Mango.Services.AuthAPI\\Service\\JwtTokenGenerator.cs",
+              "ToolTip": "C:\\Users\\Atilla\\source\\repos\\Mango\\Services\\Mango.Services.AuthAPI\\Service\\JwtTokenGenerator.cs",
+              "RelativeToolTip": "Services\\Mango.Services.AuthAPI\\Service\\JwtTokenGenerator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAABKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-13T10:55:36.458Z",
+              "WhenOpened": "2024-10-13T13:29:03.695Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "Mango.Services.CouponAPI",
-              "DocumentMoniker": "C:\\Users\\Atilla\\source\\repos\\Mango\\Services\\Mango.Services.CouponAPI\\Mango.Services.CouponAPI.csproj",
-              "RelativeDocumentMoniker": "Services\\Mango.Services.CouponAPI\\Mango.Services.CouponAPI.csproj",
-              "ToolTip": "C:\\Users\\Atilla\\source\\repos\\Mango\\Services\\Mango.Services.CouponAPI\\Mango.Services.CouponAPI.csproj",
-              "RelativeToolTip": "Services\\Mango.Services.CouponAPI\\Mango.Services.CouponAPI.csproj",
+              "Title": "IJwtTokenGenerator.cs",
+              "DocumentMoniker": "C:\\Users\\Atilla\\source\\repos\\Mango\\Services\\Mango.Services.AuthAPI\\Service\\IService\\IJwtTokenGenerator.cs",
+              "RelativeDocumentMoniker": "Services\\Mango.Services.AuthAPI\\Service\\IService\\IJwtTokenGenerator.cs",
+              "ToolTip": "C:\\Users\\Atilla\\source\\repos\\Mango\\Services\\Mango.Services.AuthAPI\\Service\\IService\\IJwtTokenGenerator.cs",
+              "RelativeToolTip": "Services\\Mango.Services.AuthAPI\\Service\\IService\\IJwtTokenGenerator.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-10-13T10:55:28.967Z",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-13T13:28:59.87Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Atilla\\source\\repos\\Mango\\Services\\Mango.Services.AuthAPI\\Program.cs",
+              "RelativeDocumentMoniker": "Services\\Mango.Services.AuthAPI\\Program.cs",
+              "ToolTip": "C:\\Users\\Atilla\\source\\repos\\Mango\\Services\\Mango.Services.AuthAPI\\Program.cs",
+              "RelativeToolTip": "Services\\Mango.Services.AuthAPI\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-13T13:28:50.082Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AuthService.cs",
+              "DocumentMoniker": "C:\\Users\\Atilla\\source\\repos\\Mango\\Services\\Mango.Services.AuthAPI\\Service\\AuthService.cs",
+              "RelativeDocumentMoniker": "Services\\Mango.Services.AuthAPI\\Service\\AuthService.cs",
+              "ToolTip": "C:\\Users\\Atilla\\source\\repos\\Mango\\Services\\Mango.Services.AuthAPI\\Service\\AuthService.cs",
+              "RelativeToolTip": "Services\\Mango.Services.AuthAPI\\Service\\AuthService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADQAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-13T13:23:51.348Z",
               "EditorCaption": ""
             }
           ]
