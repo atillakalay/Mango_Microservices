@@ -13,15 +13,16 @@ namespace Mango.Web.Controllers
             _couponService = couponService;
         }
 
+
         public async Task<IActionResult> CouponIndex()
         {
             List<CouponDto>? list = new();
 
             ResponseDto? response = await _couponService.GetAllCouponsAsync();
 
-            if (response != null && response.IsSuccess && response.Result != null)
+            if (response != null && response.IsSuccess)
             {
-                list = JsonConvert.DeserializeObject<List<CouponDto>>(response.Result.ToString());
+                list = JsonConvert.DeserializeObject<List<CouponDto>>(Convert.ToString(response.Result));
             }
             else
             {
@@ -60,36 +61,34 @@ namespace Mango.Web.Controllers
         {
             ResponseDto? response = await _couponService.GetCouponByIdAsync(couponId);
 
-            if (response != null && response.IsSuccess && response.Result != null)
+            if (response != null && response.IsSuccess)
             {
-                CouponDto? model = JsonConvert.DeserializeObject<CouponDto>(response.Result.ToString());
+                CouponDto? model = JsonConvert.DeserializeObject<CouponDto>(Convert.ToString(response.Result));
                 return View(model);
             }
             else
             {
                 TempData["error"] = response?.Message;
-                return NotFound();
             }
+            return NotFound();
         }
 
         [HttpPost]
         public async Task<IActionResult> CouponDelete(CouponDto couponDto)
         {
-            if (ModelState.IsValid)
-            {
-                ResponseDto? response = await _couponService.DeleteCouponsAsync(couponDto.CouponId);
+            ResponseDto? response = await _couponService.DeleteCouponsAsync(couponDto.CouponId);
 
-                if (response != null && response.IsSuccess)
-                {
-                    TempData["success"] = "Coupon deleted successfully";
-                    return RedirectToAction(nameof(CouponIndex));
-                }
-                else
-                {
-                    TempData["error"] = response?.Message;
-                }
+            if (response != null && response.IsSuccess)
+            {
+                TempData["success"] = "Coupon deleted successfully";
+                return RedirectToAction(nameof(CouponIndex));
+            }
+            else
+            {
+                TempData["error"] = response?.Message;
             }
             return View(couponDto);
         }
+
     }
 }

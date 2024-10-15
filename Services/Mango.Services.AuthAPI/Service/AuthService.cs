@@ -29,6 +29,7 @@ namespace Mango.Services.AuthAPI.Service
             {
                 if (!_roleManager.RoleExistsAsync(roleName).GetAwaiter().GetResult())
                 {
+                    //create role if it does not exist
                     _roleManager.CreateAsync(new IdentityRole(roleName)).GetAwaiter().GetResult();
                 }
                 await _userManager.AddToRoleAsync(user, roleName);
@@ -48,7 +49,10 @@ namespace Mango.Services.AuthAPI.Service
             {
                 return new LoginResponseDto() { User = null, Token = "" };
             }
-            var token = _jwtTokenGenerator.GenerateToken(user);
+
+            //if user was found , Generate JWT Token
+            var roles = await _userManager.GetRolesAsync(user);
+            var token = _jwtTokenGenerator.GenerateToken(user, roles);
 
             UserDto userDTO = new()
             {
@@ -104,8 +108,9 @@ namespace Mango.Services.AuthAPI.Service
             }
             catch (Exception ex)
             {
-                return ex.Message;
+
             }
+            return "Error Encountered";
         }
     }
 }

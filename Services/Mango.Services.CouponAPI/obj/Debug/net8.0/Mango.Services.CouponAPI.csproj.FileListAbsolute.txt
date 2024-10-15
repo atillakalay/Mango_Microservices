@@ -131,6 +131,7 @@ C:\Users\Atilla\source\repos\Mango\Services\Mango.Services.CouponAPI\obj\Debug\n
 C:\Users\Atilla\source\repos\Mango\Services\Mango.Services.CouponAPI\obj\Debug\net8.0\Mango.Services.CouponAPI.csproj.CoreCompileInputs.cache
 C:\Users\Atilla\source\repos\Mango\Services\Mango.Services.CouponAPI\obj\Debug\net8.0\Mango.Services.CouponAPI.MvcApplicationPartsAssemblyInfo.cs
 C:\Users\Atilla\source\repos\Mango\Services\Mango.Services.CouponAPI\obj\Debug\net8.0\Mango.Services.CouponAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Atilla\source\repos\Mango\Services\Mango.Services.CouponAPI\obj\Debug\net8.0\Mango.Services.CouponAPI.sourcelink.json
 C:\Users\Atilla\source\repos\Mango\Services\Mango.Services.CouponAPI\obj\Debug\net8.0\scopedcss\bundle\Mango.Services.CouponAPI.styles.css
 C:\Users\Atilla\source\repos\Mango\Services\Mango.Services.CouponAPI\obj\Debug\net8.0\staticwebassets.build.json
 C:\Users\Atilla\source\repos\Mango\Services\Mango.Services.CouponAPI\obj\Debug\net8.0\staticwebassets.development.json
@@ -147,4 +148,3 @@ C:\Users\Atilla\source\repos\Mango\Services\Mango.Services.CouponAPI\obj\Debug\n
 C:\Users\Atilla\source\repos\Mango\Services\Mango.Services.CouponAPI\obj\Debug\net8.0\Mango.Services.CouponAPI.pdb
 C:\Users\Atilla\source\repos\Mango\Services\Mango.Services.CouponAPI\obj\Debug\net8.0\Mango.Services.CouponAPI.genruntimeconfig.cache
 C:\Users\Atilla\source\repos\Mango\Services\Mango.Services.CouponAPI\obj\Debug\net8.0\ref\Mango.Services.CouponAPI.dll
-C:\Users\Atilla\source\repos\Mango\Services\Mango.Services.CouponAPI\obj\Debug\net8.0\Mango.Services.CouponAPI.sourcelink.json
