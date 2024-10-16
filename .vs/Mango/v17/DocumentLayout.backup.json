@@ -1,12 +1,119 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\Atilla\\source\\repos\\Mango\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0ECCC038-48B6-4154-A29C-0BE69D3BA3C4}|Services\\Mango.Services.ProductAPI\\Mango.Services.ProductAPI.csproj|c:\\users\\atilla\\source\\repos\\mango\\services\\mango.services.productapi\\controllers\\productapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0ECCC038-48B6-4154-A29C-0BE69D3BA3C4}|Services\\Mango.Services.ProductAPI\\Mango.Services.ProductAPI.csproj|solutionrelative:services\\mango.services.productapi\\controllers\\productapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F04ECBED-25BB-4BA3-B514-8F3D4FE08D09}|Services\\Mango.Services.CouponAPI\\Mango.Services.CouponAPI.csproj|c:\\users\\atilla\\source\\repos\\mango\\services\\mango.services.couponapi\\controllers\\couponapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F04ECBED-25BB-4BA3-B514-8F3D4FE08D09}|Services\\Mango.Services.CouponAPI\\Mango.Services.CouponAPI.csproj|solutionrelative:services\\mango.services.couponapi\\controllers\\couponapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0ECCC038-48B6-4154-A29C-0BE69D3BA3C4}|Services\\Mango.Services.ProductAPI\\Mango.Services.ProductAPI.csproj|c:\\users\\atilla\\source\\repos\\mango\\services\\mango.services.productapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0ECCC038-48B6-4154-A29C-0BE69D3BA3C4}|Services\\Mango.Services.ProductAPI\\Mango.Services.ProductAPI.csproj|solutionrelative:services\\mango.services.productapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0ECCC038-48B6-4154-A29C-0BE69D3BA3C4}|Services\\Mango.Services.ProductAPI\\Mango.Services.ProductAPI.csproj|c:\\users\\atilla\\source\\repos\\mango\\services\\mango.services.productapi\\extensions\\webapplicationbuilderextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0ECCC038-48B6-4154-A29C-0BE69D3BA3C4}|Services\\Mango.Services.ProductAPI\\Mango.Services.ProductAPI.csproj|solutionrelative:services\\mango.services.productapi\\extensions\\webapplicationbuilderextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69F4E5A4-73C9-43F8-8B3B-F858F8034043}|Services\\Mango.Services.AuthAPI\\Mango.Services.AuthAPI.csproj|c:\\users\\atilla\\source\\repos\\mango\\services\\mango.services.authapi\\controllers\\authapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69F4E5A4-73C9-43F8-8B3B-F858F8034043}|Services\\Mango.Services.AuthAPI\\Mango.Services.AuthAPI.csproj|solutionrelative:services\\mango.services.authapi\\controllers\\authapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69F4E5A4-73C9-43F8-8B3B-F858F8034043}|Services\\Mango.Services.AuthAPI\\Mango.Services.AuthAPI.csproj|c:\\users\\atilla\\source\\repos\\mango\\services\\mango.services.authapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{69F4E5A4-73C9-43F8-8B3B-F858F8034043}|Services\\Mango.Services.AuthAPI\\Mango.Services.AuthAPI.csproj|solutionrelative:services\\mango.services.authapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CouponApiController.cs",
+              "DocumentMoniker": "C:\\Users\\Atilla\\source\\repos\\Mango\\Services\\Mango.Services.CouponAPI\\Controllers\\CouponApiController.cs",
+              "RelativeDocumentMoniker": "Services\\Mango.Services.CouponAPI\\Controllers\\CouponApiController.cs",
+              "ToolTip": "C:\\Users\\Atilla\\source\\repos\\Mango\\Services\\Mango.Services.CouponAPI\\Controllers\\CouponApiController.cs",
+              "RelativeToolTip": "Services\\Mango.Services.CouponAPI\\Controllers\\CouponApiController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T12:27:27.567Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "WebApplicationBuilderExtensions.cs",
+              "DocumentMoniker": "C:\\Users\\Atilla\\source\\repos\\Mango\\Services\\Mango.Services.ProductAPI\\Extensions\\WebApplicationBuilderExtensions.cs",
+              "RelativeDocumentMoniker": "Services\\Mango.Services.ProductAPI\\Extensions\\WebApplicationBuilderExtensions.cs",
+              "ToolTip": "C:\\Users\\Atilla\\source\\repos\\Mango\\Services\\Mango.Services.ProductAPI\\Extensions\\WebApplicationBuilderExtensions.cs",
+              "RelativeToolTip": "Services\\Mango.Services.ProductAPI\\Extensions\\WebApplicationBuilderExtensions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T16:29:28.87Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Atilla\\source\\repos\\Mango\\Services\\Mango.Services.ProductAPI\\Program.cs",
+              "RelativeDocumentMoniker": "Services\\Mango.Services.ProductAPI\\Program.cs",
+              "ToolTip": "C:\\Users\\Atilla\\source\\repos\\Mango\\Services\\Mango.Services.ProductAPI\\Program.cs",
+              "RelativeToolTip": "Services\\Mango.Services.ProductAPI\\Program.cs",
+              "ViewState": "AgIAADAAAAAAAAAAAAD4vz8AAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T16:25:55.913Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductApiController.cs",
+              "DocumentMoniker": "C:\\Users\\Atilla\\source\\repos\\Mango\\Services\\Mango.Services.ProductAPI\\Controllers\\ProductApiController.cs",
+              "RelativeDocumentMoniker": "Services\\Mango.Services.ProductAPI\\Controllers\\ProductApiController.cs",
+              "ToolTip": "C:\\Users\\Atilla\\source\\repos\\Mango\\Services\\Mango.Services.ProductAPI\\Controllers\\ProductApiController.cs",
+              "RelativeToolTip": "Services\\Mango.Services.ProductAPI\\Controllers\\ProductApiController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T16:25:22.531Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AuthAPIController.cs",
+              "DocumentMoniker": "C:\\Users\\Atilla\\source\\repos\\Mango\\Services\\Mango.Services.AuthAPI\\Controllers\\AuthAPIController.cs",
+              "RelativeDocumentMoniker": "Services\\Mango.Services.AuthAPI\\Controllers\\AuthAPIController.cs",
+              "ToolTip": "C:\\Users\\Atilla\\source\\repos\\Mango\\Services\\Mango.Services.AuthAPI\\Controllers\\AuthAPIController.cs",
+              "RelativeToolTip": "Services\\Mango.Services.AuthAPI\\Controllers\\AuthAPIController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T16:24:48.332Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Atilla\\source\\repos\\Mango\\Services\\Mango.Services.AuthAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "Services\\Mango.Services.AuthAPI\\appsettings.json",
+              "ToolTip": "C:\\Users\\Atilla\\source\\repos\\Mango\\Services\\Mango.Services.AuthAPI\\appsettings.json",
+              "RelativeToolTip": "Services\\Mango.Services.AuthAPI\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-15T16:19:22.408Z"
+            }
+          ]
+        }
+      ]
     }
   ]
 }
