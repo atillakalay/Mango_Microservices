@@ -3,20 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\Atilla\\source\\repos\\Mango\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{844F0639-C8EA-4CEA-9677-E744302890F4}|FrontEnd\\Mango.Web\\Mango.Web.csproj|c:\\users\\atilla\\source\\repos\\mango\\frontend\\mango.web\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{844F0639-C8EA-4CEA-9677-E744302890F4}|FrontEnd\\Mango.Web\\Mango.Web.csproj|solutionrelative:frontend\\mango.web\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{55765626-DF03-48F8-A7D3-DD6205D222C9}|Services\\Mango.Services.ShoppingCartAPI\\Mango.Services.ShoppingCartAPI.csproj|c:\\users\\atilla\\source\\repos\\mango\\services\\mango.services.shoppingcartapi\\controllers\\cartapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55765626-DF03-48F8-A7D3-DD6205D222C9}|Services\\Mango.Services.ShoppingCartAPI\\Mango.Services.ShoppingCartAPI.csproj|solutionrelative:services\\mango.services.shoppingcartapi\\controllers\\cartapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{844F0639-C8EA-4CEA-9677-E744302890F4}|FrontEnd\\Mango.Web\\Mango.Web.csproj|c:\\users\\atilla\\source\\repos\\mango\\frontend\\mango.web\\views\\home\\productdetails.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{844F0639-C8EA-4CEA-9677-E744302890F4}|FrontEnd\\Mango.Web\\Mango.Web.csproj|solutionrelative:frontend\\mango.web\\views\\home\\productdetails.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{55765626-DF03-48F8-A7D3-DD6205D222C9}|Services\\Mango.Services.ShoppingCartAPI\\Mango.Services.ShoppingCartAPI.csproj|c:\\users\\atilla\\source\\repos\\mango\\services\\mango.services.shoppingcartapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55765626-DF03-48F8-A7D3-DD6205D222C9}|Services\\Mango.Services.ShoppingCartAPI\\Mango.Services.ShoppingCartAPI.csproj|solutionrelative:services\\mango.services.shoppingcartapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{844F0639-C8EA-4CEA-9677-E744302890F4}|FrontEnd\\Mango.Web\\Mango.Web.csproj|c:\\users\\atilla\\source\\repos\\mango\\frontend\\mango.web\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{844F0639-C8EA-4CEA-9677-E744302890F4}|FrontEnd\\Mango.Web\\Mango.Web.csproj|solutionrelative:frontend\\mango.web\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{55765626-DF03-48F8-A7D3-DD6205D222C9}|Services\\Mango.Services.ShoppingCartAPI\\Mango.Services.ShoppingCartAPI.csproj|c:\\users\\atilla\\source\\repos\\mango\\services\\mango.services.shoppingcartapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{55765626-DF03-48F8-A7D3-DD6205D222C9}|Services\\Mango.Services.ShoppingCartAPI\\Mango.Services.ShoppingCartAPI.csproj|solutionrelative:services\\mango.services.shoppingcartapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{844F0639-C8EA-4CEA-9677-E744302890F4}|FrontEnd\\Mango.Web\\Mango.Web.csproj|c:\\users\\atilla\\source\\repos\\mango\\frontend\\mango.web\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{844F0639-C8EA-4CEA-9677-E744302890F4}|FrontEnd\\Mango.Web\\Mango.Web.csproj|solutionrelative:frontend\\mango.web\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{55765626-DF03-48F8-A7D3-DD6205D222C9}|Services\\Mango.Services.ShoppingCartAPI\\Mango.Services.ShoppingCartAPI.csproj|c:\\users\\atilla\\source\\repos\\mango\\services\\mango.services.shoppingcartapi\\service\\couponservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55765626-DF03-48F8-A7D3-DD6205D222C9}|Services\\Mango.Services.ShoppingCartAPI\\Mango.Services.ShoppingCartAPI.csproj|solutionrelative:services\\mango.services.shoppingcartapi\\service\\couponservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -31,53 +31,53 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\Atilla\\source\\repos\\Mango\\FrontEnd\\Mango.Web\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "FrontEnd\\Mango.Web\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\Atilla\\source\\repos\\Mango\\FrontEnd\\Mango.Web\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "FrontEnd\\Mango.Web\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAADQAAAAAAAAAAAAAAEkAAABGAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-16T12:46:30.385Z",
+              "Title": "CartAPIController.cs",
+              "DocumentMoniker": "C:\\Users\\Atilla\\source\\repos\\Mango\\Services\\Mango.Services.ShoppingCartAPI\\Controllers\\CartAPIController.cs",
+              "RelativeDocumentMoniker": "Services\\Mango.Services.ShoppingCartAPI\\Controllers\\CartAPIController.cs",
+              "ToolTip": "C:\\Users\\Atilla\\source\\repos\\Mango\\Services\\Mango.Services.ShoppingCartAPI\\Controllers\\CartAPIController.cs",
+              "RelativeToolTip": "Services\\Mango.Services.ShoppingCartAPI\\Controllers\\CartAPIController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T15:42:20.365Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "ProductDetails.cshtml",
-              "DocumentMoniker": "C:\\Users\\Atilla\\source\\repos\\Mango\\FrontEnd\\Mango.Web\\Views\\Home\\ProductDetails.cshtml",
-              "RelativeDocumentMoniker": "FrontEnd\\Mango.Web\\Views\\Home\\ProductDetails.cshtml",
-              "ToolTip": "C:\\Users\\Atilla\\source\\repos\\Mango\\FrontEnd\\Mango.Web\\Views\\Home\\ProductDetails.cshtml",
-              "RelativeToolTip": "FrontEnd\\Mango.Web\\Views\\Home\\ProductDetails.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAA0AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-16T12:39:24.043Z",
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Atilla\\source\\repos\\Mango\\Services\\Mango.Services.ShoppingCartAPI\\Program.cs",
+              "RelativeDocumentMoniker": "Services\\Mango.Services.ShoppingCartAPI\\Program.cs",
+              "ToolTip": "C:\\Users\\Atilla\\source\\repos\\Mango\\Services\\Mango.Services.ShoppingCartAPI\\Program.cs",
+              "RelativeToolTip": "Services\\Mango.Services.ShoppingCartAPI\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T15:40:55.304Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\Atilla\\source\\repos\\Mango\\FrontEnd\\Mango.Web\\Views\\Home\\Index.cshtml",
-              "RelativeDocumentMoniker": "FrontEnd\\Mango.Web\\Views\\Home\\Index.cshtml",
-              "ToolTip": "C:\\Users\\Atilla\\source\\repos\\Mango\\FrontEnd\\Mango.Web\\Views\\Home\\Index.cshtml",
-              "RelativeToolTip": "FrontEnd\\Mango.Web\\Views\\Home\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAHAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-16T12:38:40.833Z",
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Atilla\\source\\repos\\Mango\\Services\\Mango.Services.ShoppingCartAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "Services\\Mango.Services.ShoppingCartAPI\\appsettings.json",
+              "ToolTip": "C:\\Users\\Atilla\\source\\repos\\Mango\\Services\\Mango.Services.ShoppingCartAPI\\appsettings.json",
+              "RelativeToolTip": "Services\\Mango.Services.ShoppingCartAPI\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-16T15:40:08.763Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "C:\\Users\\Atilla\\source\\repos\\Mango\\FrontEnd\\Mango.Web\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "FrontEnd\\Mango.Web\\Controllers\\HomeController.cs",
-              "ToolTip": "C:\\Users\\Atilla\\source\\repos\\Mango\\FrontEnd\\Mango.Web\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "FrontEnd\\Mango.Web\\Controllers\\HomeController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAmwBMAAAArAAAAAAAAAA==",
+              "Title": "CouponService.cs",
+              "DocumentMoniker": "C:\\Users\\Atilla\\source\\repos\\Mango\\Services\\Mango.Services.ShoppingCartAPI\\Service\\CouponService.cs",
+              "RelativeDocumentMoniker": "Services\\Mango.Services.ShoppingCartAPI\\Service\\CouponService.cs",
+              "ToolTip": "C:\\Users\\Atilla\\source\\repos\\Mango\\Services\\Mango.Services.ShoppingCartAPI\\Service\\CouponService.cs",
+              "RelativeToolTip": "Services\\Mango.Services.ShoppingCartAPI\\Service\\CouponService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-16T12:38:23.544Z",
+              "WhenOpened": "2024-10-16T15:38:23.909Z",
               "EditorCaption": ""
             }
           ]
